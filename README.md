@@ -9,3 +9,6 @@ Abstract about the project...
 * Module 1
 * Module 2
 * Module 3
+
+## PROBLEMS ENCOUNTERED
+Problems encountered in this project are...
