@@ -9,3 +9,6 @@ Abstract about the project...
 * Module 1
 * Module 2
 * Module 3
+
+## OUTCOME
+Outcome of the Project
