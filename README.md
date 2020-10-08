@@ -9,7 +9,7 @@
 <br>
   
 ![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
-![](https://img.shields.io/badge/Fork-If_you_want_to_contribute-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
+![](https://img.shields.io/badge/Fork-If_feel_Contributing-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
 </div>  <br><br>
 
 This repository is for experiment purpose...
